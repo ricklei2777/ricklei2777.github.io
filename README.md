@@ -1,5 +1,5 @@
-# Rick's personal website
+# Rick
 
-A small, dependency-free personal homepage. Open `index.html` in a browser to view it.
+A minimal, dependency-free personal website built with plain HTML and CSS.
 
-The introduction, work, and contact details in `index.html` are placeholders to replace with your own content. Styling is in `styles.css`.
+Open `index.html` directly in a browser or serve the directory with any static HTTP server. No build step, package manager, or external fonts are required.
